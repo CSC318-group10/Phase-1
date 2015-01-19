@@ -1,0 +1,10 @@
+Problem space we chose: Diabetes monitoring system.
+Target user audience: People with health issues (or more specifically diabetes) / Seniors (?)
+
+User research plan: Email / Online survey / Face-to-face interview
+
+My personal thoughts: The handout says we are going to explore the problem space instead of assuming having known what
+exact problem is. So I think it's probably better to use the "Health monitoring system" as problem sapce and change
+it to diabetes after the user research. What do you guys think?
+
+Work of previous 318 students (their entire project): http://www.blueisme.com/portfolio/csc318/
