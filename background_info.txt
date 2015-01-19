@@ -1,0 +1,12 @@
+Interview article with helpful perspective on UI design:
+‘Can Health Apps Help Patients Change Their Behavior?’
+http://www.medscape.com/viewarticle/806734
+…note that you may need to register with the site to view the article
+
+Article specific to Seniors managing diabetes:
+‘Most Diabetic Seniors Think Health Apps Are a Good Idea - Pacific Standard: The Science of Society’
+http://www.psmag.com/navigation/health-and-behavior/diabetic-seniors-think-health-tracking-apps-good-idea-97019/
+
+Data privacy perspective on health apps:
+Yes, those free health apps are sharing your data with other companies | Technology | The Guardian
+http://www.theguardian.com/technology/appsblog/2013/sep/03/fitness-health-apps-sharing-data-insurance
