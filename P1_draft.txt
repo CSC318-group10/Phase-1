@@ -1,0 +1,31 @@
+	Problem space: We are interested in the management of health conditions, in how digital devices and/or apps can help people manage their health conditions.
+	
+	User Group: the user group that we are interested in is people who are suffering from diabetes (both types 1 and 2). For many people, this disease requires constant monitoring of health factors such as blood glucose levels.
+	Monitoring is required to keep symptoms under control and reduce the risk of progression and complications. Many sufferers report ‘burn-out’ and stress from managing their condition.
+	Seniors in particular are least likely to embrace technology to facilitate their management of the condition.
+	
+	
+	We intend to seek out participants from local (Toronto) support groups and online support groups.
+	https://www.diabetes.ca/in-your-community/support-groups
+	http://york.cioc.ca/record/HMT0977
+	BBDC at U of T
+	
+	Understanding what they use today; what is their experience of managing the condition; 
+	
+	Research:
+	-what methods:
+•	interviews to provide greater insight, to ask open questions and follow up
+•	a survey might be developed from the interview to draw information from a broader sampling
+	-where to find:
+•	see list above
+•	Banting and Best Diabetes Center
+•	Canadian Diabetes Association local support groups
+	-what information is sought:
+•	how do they currently manage their condition
+•	what issues do they face with managing their condition
+•	what do they need to manage
+•	what tools do they currently have
+•	how much do they use them
+•	what are their (tools’) strengths and shortcomings
+•	in general, what technology devices do they use (for any purpose)
+•	would they be willing to adopt a new device specific to managing the condition?
