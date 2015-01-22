@@ -1,26 +1,16 @@
-	Problem space: We are interested in the management of health conditions, in how digital devices and/or apps can help people manage their health conditions.
-	
+	Problem space: We are interested in the management of health conditions; in how specialized digital devices and/or apps can help people manage their health conditions.
+
 	User Group: the user group that we are interested in is people who are suffering from diabetes (both types 1 and 2). For many people, this disease requires constant monitoring of health factors such as blood glucose levels.
 	Monitoring is required to keep symptoms under control and reduce the risk of progression and complications. Many sufferers report ‘burn-out’ and stress from managing their condition.
-	Seniors in particular are least likely to embrace technology to facilitate their management of the condition.
+	Seniors in particular are much less likely to embrace technology to facilitate the management of their health condition.
+
+
+	We intend to seek out research participants from local (Toronto) support groups. For instance: the Canadian Diabetes Association (CDA) organizes local support groups. Another possible source of users may be the Banting & Best Diabetes Center (BBDC) at the University of Toronto.
+
+	The purpose of our research is to obtain a specific understanding of how seniors manage their diabetes (i.e. tools and techniques), what further steps they need to take to manage their condition, and what prevents them from doing so.
+	The primary research method will be through interviews, as conversations are likely to provide greater insight and allow the asking of open questions and following up on the answers. It is possible that a survey may be developed from the interview results in order to confirm information from a broader sampling.
 	
-	
-	We intend to seek out participants from local (Toronto) support groups and online support groups.
-	https://www.diabetes.ca/in-your-community/support-groups
-	http://york.cioc.ca/record/HMT0977
-	BBDC at U of T
-	
-	Understanding what they use today; what is their experience of managing the condition; 
-	
-	Research:
-	-what methods:
-•	interviews to provide greater insight, to ask open questions and follow up
-•	a survey might be developed from the interview to draw information from a broader sampling
-	-where to find:
-•	see list above
-•	Banting and Best Diabetes Center
-•	Canadian Diabetes Association local support groups
-	-what information is sought:
+	Interview questions will explore the following topics:
 •	how do they currently manage their condition
 •	what issues do they face with managing their condition
 •	what do they need to manage
