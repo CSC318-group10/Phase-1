@@ -12,11 +12,11 @@
 	The primary research method will be through interviews, as conversations are likely to provide greater insight and allow the asking of open questions and following up on the answers. It is possible that a survey may be developed from the interview results in order to confirm information from a broader sampling.
 	
 	Interview questions will explore the following topics:
-•	how do they currently manage their condition
-•	what issues do they face with managing their condition
-•	what do they need to manage
-•	what tools do they currently have
-•	how much do they use them
-•	what are their (tools’) strengths and shortcomings
-•	in general, what technology devices do they use (for any purpose)
-•	would they be willing to adopt a new device specific to managing the condition?
+•	How do they currently manage their condition?
+•	What issues do they face with managing their condition?
+•	What do they need to manage?
+•	What tools do they currently have?
+•	How much do they use them?
+•	What are their (tools’) strengths and shortcomings?
+•	In general, what technology devices do they use (for any purpose)?
+•	Would they be willing to adopt a new device specific to managing the condition?
