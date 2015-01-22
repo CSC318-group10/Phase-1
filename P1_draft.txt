@@ -1,10 +1,11 @@
-	Problem space: Considering the increasing number of smartphones users, we are interested in the management of health conditions using digital devices; In other words, we would like to understand how specialized digital devices and/or apps can help people manage their health conditions.
+	Problem space: Considering the increasing number of smartphones users, we are interested in the management of health conditions using digital devices; In other words, we would like to understand how specialized digital devices and/or apps can help people manage their health conditions. 
+	During the process of exploring exact problem, we hope to find out what are the issues users have when they are monitoring / managing diabetes.
 
 	User Group: the user group that we are interested in is seniors who are suffering from diabetes (both types 1 and 2). For many people, this disease requires constant monitoring of health factors such as blood glucose levels.
 	Monitoring is required to keep symptoms under control and reduce the risk of progression and complications. Many sufferers report ‘burn-out’ and stress from managing their condition.
 	Seniors in particular are much less likely to embrace technology to facilitate the management of their health condition, so we would like to understand their difficulties with technology and create a helpful interface to help them. 
 
-
+        High-level user research plan:
 	We intend to seek out research participants from local (Toronto) support groups. For instance: the Canadian Diabetes Association (CDA) organizes local support groups. Another possible source of users may be the Banting & Best Diabetes Center (BBDC) at the University of Toronto.
 
 	The purpose of our research is to obtain a specific understanding of how seniors manage their diabetes (i.e. tools and techniques), what further steps they need to take to manage their condition, and what prevents them from doing so.
