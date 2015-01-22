@@ -1,8 +1,8 @@
-	Problem space: We are interested in the management of health conditions; in how specialized digital devices and/or apps can help people manage their health conditions.
+	Problem space: Considering the increasing number of smartphones users, we are interested in the management of health conditions using digital devices; In other words, we would like to understand how specialized digital devices and/or apps can help people manage their health conditions.
 
-	User Group: the user group that we are interested in is people who are suffering from diabetes (both types 1 and 2). For many people, this disease requires constant monitoring of health factors such as blood glucose levels.
+	User Group: the user group that we are interested in is seniors who are suffering from diabetes (both types 1 and 2). For many people, this disease requires constant monitoring of health factors such as blood glucose levels.
 	Monitoring is required to keep symptoms under control and reduce the risk of progression and complications. Many sufferers report ‘burn-out’ and stress from managing their condition.
-	Seniors in particular are much less likely to embrace technology to facilitate the management of their health condition.
+	Seniors in particular are much less likely to embrace technology to facilitate the management of their health condition, so we would like to understand their difficulties with technology and create a helpful interface to help them. 
 
 
 	We intend to seek out research participants from local (Toronto) support groups. For instance: the Canadian Diabetes Association (CDA) organizes local support groups. Another possible source of users may be the Banting & Best Diabetes Center (BBDC) at the University of Toronto.
