@@ -1,0 +1,27 @@
+[Group 10] Seniors Managing Diabetes
+
+Paper 1: "Healthy living with persuasive technologies: framework, issues, and challenges."
+
+This paper provides an overview of the evolution of persuasive technologies. It begins with a little perspective. As populations age, they require more health care. The current focus on acute care is not sustainable, and a greater focus must be placed on preventive care. A cornerstone of preventive medicine is behaviour (a.k.a. ‘lifestyle’) modification.
+The paper provides a framework for the roles that technologies may play (as tools, media, or social actors) and the variety of strategies that each role may employ. It provides a roadmap of the evolution of persuasive technologies, from mostly text-based direct communications from physician to patient, to sensor networks that include biometric and environmental sensors. The paper provides a list of exemplars of case studies, categorized by generation of technology. It finishes by listing the greatest challenges facing persuasive-based computing technology, and provides some predictions for the next generation of technology.
+
+Paper 2: "The ELDer project: social, emotional, and environmental factors in the design of eldercare technologies." [2]
+
+This paper provides a background primer on the eldercare environment. It provides the perspective of multiple stakeholders involved in the care of elders, and also provides insight into how to design interfaces to meet the variety of needs identified through the ethnographic study that produced the paper.
+
+Paper 3: “Creating persuasive technologies: an eight-step design process” [3] 
+
+The author distills their experience with the intention of providing guidance to the novice designer of persuasive technologies. He cautions against tackling too ambitious a project, declaring that designing for persuasion is more difficult than designing for usability. A strong argument is made for setting many small short-term goals on the path to achieving a larger objective. The first step is to select a simple behaviour to target for change. The second step, which also serves to improve the designer’s chances of success, is to select the right audience. It must be receptive, i.e. it is predisposed to changing their behaviour and has familiarity with a technology channel. The author explains that adopting a new technology is in fact a behaviour change, and that asking the user to adopt a new technology in order to make a behaviour change is too much to ask. Finally, the author summarizes the value of performing Agile development and developing minimum viable products.
+
+
+This trio of publications will serve as a structure for any additional research, as well as help us more clearly define any solution proposal in terms of strategies and the technologies appropriate to implementing them. 
+The “ELDer…” paper will serve to sensitize the team to the more human emotional factors of tackling a health care project for elders.
+While the paper on design echoes teachings from this and other CS courses, there is much context-specific advice that will be very helpful to the team.
+
+
+1. Chatterjee, S., & Price, A. (2009). Healthy living with persuasive technologies: framework, issues, and challenges. Journal of the American Medical Informatics Association, 16(2), 171-178.
+
+2. Hirsch, T., Forlizzi, J., Hyder, E., Goetz, J., Kurtz, C., & Stroback, J. (2000, November). The ELDer project: social, emotional, and environmental factors in the design of eldercare technologies. In Proceedings on the 2000 conference on Universal Usability (pp. 72-79). ACM. 
+
+3. Fogg, B. J. (2009, April). Creating persuasive technologies: an eight-step design process. In Persuasive (p. 44).
+
