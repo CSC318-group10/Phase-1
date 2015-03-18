@@ -1,0 +1,6 @@
+Interactive Sequences:
+
+A new user who has recently been diagnosed with diabetes is led to use our application. At first glance, they have no idea what to do to control their condition as their doctor recommended it and was in a rush to leave. When the user first opens the application, their main screen body is blank as it needs to be filled in, however there is a header at the top which shows their blood-sugar level and time it was taken. The users main goal is to record a log of their blood-sugar level and see the trend of it over a week, so they can figure out if they a higher or lower average level, and in addition to create a healthy habit through the reminders system.
+
+
+The way for this user to achieve this is that they would first create new events to fill up their screen. Filling out the events is not mandatory, but it would help them create a log and keep track of their progress, as well as help them create reminders for the application to do. After creating many logs (over days) of their blood-sugar level, they can tap on the trend button on the bottom right of the application and see what the levels were over the past usages. Moreover, with the recording of their logs, they can click on the reminders icon (noted as the [!] icon), they can set reminders for the application to tell them when to do something.
