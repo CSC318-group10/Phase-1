@@ -1,0 +1,16 @@
+Assignment 1 - CSC318
+Jhony Miller Campanha
+
+My name is Jhony Miller Campanha, and I am a computer science exchange student at University of Toronto. I started my studies at Federal University of Sao Carlos in Brazil, and now I am studying here in Toronto supported by a Brazilian’s government program called Science Without Borders. Over the past 3 years, I have been studying classification methods in machine learning applied to text automatic filtering, specifically in spam filtering in social networks. 
+
+In Brazil, I had some group work experience in some courses, and I enjoyed very much. There are some issues about group members, but we always could solve the problems and receive good feedback from professors. 
+
+My experience involves dividing the work and having daily or weekly meetings to discuss and help each other. Since each group member has a different schedule, it is hard to work together all the time, and that’s why I like to divide the work.
+
+
+[BAD] iPhone Calendar Design
+
+At a first sigh, iPhone’s calendar looks organized, but it has some usability issues which bother a big amount of users. We can see some difficulties in understand what is clickable and what is not and the meaning of the colors.
+Using the calendar for the first time can be hard for most users. At a first sigh, you can see that almost everything in red in clickable, except for the current month name. Why are they using the same color if it is not a clickable option? Another issue is the meaning of having the weekends in grey, just like they are disable, which is not true.
+
+In order to fix those issues, apple should work harder in usability issues instead of just a good design. Maybe creating a really good color pattern, and make clear what is supposed to be clickable and what is not.
